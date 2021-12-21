@@ -1,0 +1,6 @@
+D:\Temp\Practika\Practika\bin\Debug\Practika.exe
+D:\Temp\Practika\Practika\bin\Debug\Practika.pdb
+D:\Temp\Practika\Practika\obj\Debug\Practika.csprojAssemblyReference.cache
+D:\Temp\Practika\Practika\obj\Debug\Practika.csproj.CoreCompileInputs.cache
+D:\Temp\Practika\Practika\obj\Debug\Practika.exe
+D:\Temp\Practika\Practika\obj\Debug\Practika.pdb
